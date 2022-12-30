@@ -25,7 +25,7 @@ https://wago.io/P4yl2yEqj
 ```
 https://wago.io/WJ1Zhrxhs
 ```
-## Gold Making
+## Miscellaneous
 **Clickable Fishing**
 ```
 https://wago.io/eGC-XQgj0
