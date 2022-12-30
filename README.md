@@ -41,6 +41,11 @@ https://wago.io/WJ1Zhrxhs
 https://wago.io/dfdungeons
 ```
 
+**Thundering Affix M+ with Countdown and Chat Alerts**
+```
+https://wago.io/thunder
+```
+
 **Court of Stars Helper**
 ```
 https://wago.io/hke42iGI6/3
