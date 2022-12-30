@@ -76,7 +76,7 @@ https://wago.io/LuxthosDemonHunterDragonflight
 ```
 
 ## Evoker
-**Luxthos Demon Hunter**
+**Luxthos Evoker**
 ```
 https://wago.io/LuxthosEvokerDragonflight
 ```
@@ -117,8 +117,14 @@ https://wago.io/LuxthosPriestDragonflight
 https://wago.io/LuxthosRogueDragonflight
 ```
 
-## Rogue
+## Shaman
 **Luxthos Shaman**
 ```
 https://wago.io/LuxthosShamanDragonflight
+```
+
+## Warlock
+**Luxthos Warlock**
+```
+https://wago.io/LuxthosWarlockDragonflight
 ```
