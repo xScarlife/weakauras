@@ -46,6 +46,11 @@ https://wago.io/hke42iGI6/3
 ```
 https://wago.io/eGC-XQgj0
 ```
+**Trackables - Currencies, Items and more**
+```
+https://wago.io/trackables
+```
+
 ## Warrior
 **Luxthos Warrior**
 ```
