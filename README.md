@@ -9,3 +9,7 @@
 ```
 https://wago.io/TamasDragonflightHelper
 ```
+**M+ Timer**
+```
+https://wago.io/M+Timer
+```
