@@ -31,6 +31,7 @@ https://wago.io/WJ1Zhrxhs
 https://wago.io/eGC-XQgj0
 ```
 ## Warrior
+**Luxthos Warrior**
 ```
 https://wago.io/LuxthosWarriorDragonflight/75
 ```
