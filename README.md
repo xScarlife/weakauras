@@ -56,3 +56,9 @@ https://wago.io/IgnorePainTracker/28
 ```
 https://wago.io/7R32j1O83/6
 ```
+
+## Druid
+**Luxthos Druid**
+```
+https://wago.io/LuxthosDruidDragonflight
+```
