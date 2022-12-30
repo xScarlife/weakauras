@@ -35,3 +35,13 @@ https://wago.io/eGC-XQgj0
 ```
 https://wago.io/LuxthosWarriorDragonflight/75
 ```
+
+**Block Tracker**
+```
+https://wago.io/WarriorBlockTracker/8
+```
+
+**Ignore Pain Tracker**
+```
+https://wago.io/IgnorePainTracker/28
+```
