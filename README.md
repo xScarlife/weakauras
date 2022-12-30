@@ -51,6 +51,11 @@ https://wago.io/eGC-XQgj0
 https://wago.io/trackables
 ```
 
+**Dragonriding Glyph TomTom Route**
+```
+https://wago.io/ByE6lNhGs
+```
+
 ## Warrior
 **Luxthos Warrior**
 ```
