@@ -45,3 +45,8 @@ https://wago.io/WarriorBlockTracker/8
 ```
 https://wago.io/IgnorePainTracker/28
 ```
+
+**Prot Tier**
+```
+https://wago.io/7R32j1O83/6
+```
