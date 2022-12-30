@@ -21,6 +21,11 @@ https://wago.io/M+Timer
 https://wago.io/P4yl2yEqj
 ```
 
+**Secondary Stats with Prio Order**
+```
+https://wago.io/ogqH_qj0r
+```
+
 **M+ Interrupts Tracker**
 ```
 https://wago.io/WJ1Zhrxhs
