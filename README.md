@@ -25,6 +25,12 @@ https://wago.io/P4yl2yEqj
 ```
 https://wago.io/WJ1Zhrxhs
 ```
+
+**Court of Stars Helper**
+```
+[https://wago.io/WJ1Zhrxhs](https://wago.io/hke42iGI6/3)
+```
+
 ## Miscellaneous
 **Clickable Fishing**
 ```
