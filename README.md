@@ -70,7 +70,55 @@ https://wago.io/LuxthosDeathKnightDragonflight
 ```
 
 ## Demon Hunter
-**Luxthos Demon Hunter*
+**Luxthos Demon Hunter**
 ```
 https://wago.io/LuxthosDemonHunterDragonflight
+```
+
+## Evoker
+**Luxthos Demon Hunter**
+```
+https://wago.io/LuxthosEvokerDragonflight
+```
+
+## Hunter
+**Luxthos Hunter**
+```
+https://wago.io/LuxthosHunterDragonflight
+```
+
+## Mage
+**Luxthos Mage**
+```
+https://wago.io/LuxthosMageDragonflight
+```
+
+## Monk
+**Luxthos Monk**
+```
+https://wago.io/LuxthosMonkDragonflight
+```
+
+## Paladin
+**Luxthos Paladin**
+```
+https://wago.io/LuxthosPaladinDragonflight
+```
+
+## Priest
+**Luxthos Priest**
+```
+https://wago.io/LuxthosPriestDragonflight
+```
+
+## Rogue
+**Luxthos Rogue**
+```
+https://wago.io/LuxthosRogueDragonflight
+```
+
+## Rogue
+**Luxthos Shaman**
+```
+https://wago.io/LuxthosShamanDragonflight
 ```
