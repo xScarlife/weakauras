@@ -62,3 +62,15 @@ https://wago.io/7R32j1O83/6
 ```
 https://wago.io/LuxthosDruidDragonflight
 ```
+
+## Death Knight
+**Luxthos Death Knight**
+```
+https://wago.io/LuxthosDeathKnightDragonflight
+```
+
+## Demon Hunter
+**Luxthos Demon Hunter*
+```
+https://wago.io/LuxthosDemonHunterDragonflight
+```
