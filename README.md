@@ -13,3 +13,8 @@ https://wago.io/TamasDragonflightHelper
 ```
 https://wago.io/M+Timer
 ```
+
+**Mythic+ Auto Mark - Dragonflight**
+```
+https://wago.io/P4yl2yEqj
+```
