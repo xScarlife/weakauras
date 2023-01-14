@@ -23,7 +23,12 @@ https://wago.io/M+Timer
 
 **Mythic+ Auto Mark - Dragonflight**
 ```
-https://wago.io/P4yl2yEqj
+https://wago.io/b_JzlxXLu
+```
+
+**Dungeon RIO & Raid Progress**
+```
+https://wago.io/JhmeKOgMw
 ```
 
 **Secondary Stats with Prio Order**
