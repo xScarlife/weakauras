@@ -1,4 +1,4 @@
-# List of all my WeakAura's for Dragonflight
+# xScarlife's WeakAura's - Dragonflight
   **Here I will post all my Weakaura's that I'm currently using.**
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY_LsfkMQS--TVMvGl90rNA?style=social)
