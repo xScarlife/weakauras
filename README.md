@@ -15,6 +15,11 @@ https://wago.io/TamasDragonflightHelper
 https://wago.io/dmui-dragonriding
 ```
 
+**Ruby Whelp Training Progress**
+```
+https://wago.io/9zkwq19Jo
+```
+
 ## Dungeons & Raiding
 **M+ Timer**
 ```
