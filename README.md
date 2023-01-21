@@ -92,6 +92,17 @@ https://wago.io/trackables
 https://wago.io/ByE6lNhGs
 ```
 
+**Fishing Hole**
+```
+https://wago.io/60s2uiPLL
+```
+
+**Fishing Buddy**
+```
+https://wago.io/A-ypfvNkJ
+```
+
+
 ## Warrior
 **Luxthos Warrior**
 ```
