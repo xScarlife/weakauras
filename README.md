@@ -61,6 +61,22 @@ https://wago.io/thunder
 https://wago.io/hke42iGI6/3
 ```
 
+**Vault of the Incarnates**
+```
+https://wago.io/dfraid1
+```
+
+**Temple of the Jade Serpent Geyser Bar**
+```
+https://wago.io/a_m0BaXz6
+```
+
+**M+ Halls of Valor - Odyn Runic Brand**
+```
+https://wago.io/ka1rLS9Gp
+```
+
+
 ## Miscellaneous
 **Clickable Fishing**
 ```
