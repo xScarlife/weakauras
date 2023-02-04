@@ -83,6 +83,11 @@ https://wago.io/ka1rLS9Gp
 https://wago.io/36Wkj-m2N
 ```
 
+**Check Dungeon Difficulty**
+```
+https://wago.io/NuN0eqaMl
+```
+
 
 ## Miscellaneous
 **Clickable Fishing**
