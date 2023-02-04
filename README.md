@@ -78,6 +78,11 @@ https://wago.io/a_m0BaXz6
 https://wago.io/ka1rLS9Gp
 ```
 
+**Algeth'ar Academie - Get Buff Reminder**
+```
+https://wago.io/36Wkj-m2N
+```
+
 
 ## Miscellaneous
 **Clickable Fishing**
