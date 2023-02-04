@@ -1,5 +1,6 @@
 # xScarlife's WeakAura's - Dragonflight
   **Here I will post all my Weakaura's that I'm currently using.**
+Remember to keep your Weakaura's up to date with the Weakaura Companion app! If you are not sure how to set it up, you can take a look at my video here: https://youtu.be/a1mrGtd616w
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY_LsfkMQS--TVMvGl90rNA?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/xscarlife?style=social)
