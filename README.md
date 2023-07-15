@@ -5,6 +5,9 @@ Remember to keep your Weakaura's up to date with the Weakaura Companion app! If 
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCY_LsfkMQS--TVMvGl90rNA?style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/xscarlife?style=social)
+
+If you want to support me **[Buy Me a Coffee](https://www.buymeacoffee.com/xscarlife)**
+
 ## General
 
 **Tama's Dragonflight helper**
